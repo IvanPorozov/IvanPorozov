@@ -19,6 +19,3 @@ Python Developer
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Infinity228007/badges/large)
-
-### ⚙️ GitHub:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Infinity228007)](https://git.io/streak-stats)
