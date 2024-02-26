@@ -20,14 +20,5 @@ Python Developer
 
 ![codewars](https://www.codewars.com/users/Infinity228007/badges/large)
 
-### ⚙️ GitHub статистика:
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=Infinity228007" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Infinity228007&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
+### ⚙️ GitHub:
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Infinity228007)](https://git.io/streak-stats)
