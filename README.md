@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Python Developer
 ----------------
 
-😊 I'm responsible, motivated, Python Developer.
-😍 I like programming because it's interesting for me to create something.
-🐞 I have two years of experience in commercial programming.
-👯 I will be glad to share my experience and learn from other developers.
+* 😊 I'm responsible, motivated, Python Developer.
+* 😍 I like programming because it's interesting for me to create something.
+* 🐞 I have two years of experience in commercial programming.
+* 👯 I will be glad to share my experience and learn from other developers.
 
 ### Skills
 
