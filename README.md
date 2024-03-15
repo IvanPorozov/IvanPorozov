@@ -18,7 +18,7 @@ Python Developer
 
 ### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Infinity228007/badges/large)
+![codewars](https://www.codewars.com/users/Infinity228007/badges/large)(https://www.codewars.com/users/Infinity228007)
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2-b28a2b297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwZTy%2FzsOTZmdUJpNWz5CvA%3D%3D)
