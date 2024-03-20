@@ -9,14 +9,14 @@ Python Developer
 * 🐞 I have two years of experience in commercial programming.
 * 👯 I will be glad to share my experience and learn from other developers.
 
+### 💻 CODEWARS:
+[![codewars](https://www.codewars.com/users/Infinity228007/badges/large)](https://www.codewars.com/users/Infinity228007)
+
 ### SKILLS
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="90px" height="90px">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="90px" height="90px">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="90px" height="90px">](https://www.w3.org/TR/CSS/#css)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
-
-### 💻 CODEWARS:
-[![codewars](https://www.codewars.com/users/Infinity228007/badges/large)](https://www.codewars.com/users/Infinity228007)
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2-b28a2b297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwZTy%2FzsOTZmdUJpNWz5CvA%3D%3D)
