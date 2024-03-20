@@ -19,7 +19,7 @@ Python Developer
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg">](https://www.w3.org/TR/CSS/#css)
-[<img src="[./svg/gmail.svg](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg)" width="90px" height="90px">](https://www.djangoproject.com/)
+[<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
 
 ### 💻 Codewars:
 
