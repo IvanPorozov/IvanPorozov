@@ -10,14 +10,12 @@ Python Developer
 * 👯 I will be glad to share my experience and learn from other developers.
 
 ### Skills
-
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="90px" height="90px">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="90px" height="90px">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="90px" height="90px">](https://www.w3.org/TR/CSS/#css)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
 
 ### 💻 Codewars:
-
 [![codewars](https://www.codewars.com/users/Infinity228007/badges/large)](https://www.codewars.com/users/Infinity228007)
 
 ## MY CONTACTS
