@@ -11,7 +11,8 @@ Python Developer
 
 ### 💻 CODEWARS:
 [![codewars](https://www.codewars.com/users/Infinity228007/badges/large)](https://www.codewars.com/users/Infinity228007)
-[<img src="./svg/codewars.png" width="500px" height="250px">](https://www.codewars.com/users/Infinity228007)
+
+[<img src="./svg/codewars.png" width="650px" height="250px">](https://www.codewars.com/users/Infinity228007)
 
 ### SKILLS
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="90px" height="90px">](https://www.python.org/)
