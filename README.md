@@ -20,6 +20,7 @@ Python Developer
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="90px" height="90px">](https://www.w3.org/TR/CSS/#css)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
 [<img src="./svg/sqlite-icon.svg" width="90px" height="90px">](https://www.sqlite.org/about.html)
+[<img src="./svg/Django-REST.svg" width="90px" height="90px">](https://www.django-rest-framework.org/)
 
 ## MY CONTACTS
 [<img src="./svg/Linkedin.svg">](https://www.linkedin.com/in/%D0%B8%D0%B2%D0%B0%D0%BD-%D0%BF%D0%BE%D1%80%D0%BE%D0%B7%D0%BE%D0%B2-b28a2b297/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BwZTy%2FzsOTZmdUJpNWz5CvA%3D%3D)
