@@ -3,7 +3,7 @@ Hi, My name is Ivan
 
 Python Developer 
 ----------------
-
+ 
 * 😊 I'm responsible, motivated, Python Developer.
 * 😍 I like programming because it's interesting for me to create something.
 * 🐞 I have two years of experience in commercial programming.
