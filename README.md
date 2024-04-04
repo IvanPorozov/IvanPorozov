@@ -3,7 +3,7 @@ Hi, My name is Ivan
 
 Python Developer 
 ----------------
-
+ 
 * 😊 I'm responsible, motivated, Python Developer.
 * 😍 I like programming because it's interesting for me to create something.
 * 🐞 I have two years of experience in commercial programming.
@@ -12,14 +12,13 @@ Python Developer
 ### 💻 CODEWARS:
 [![codewars](https://www.codewars.com/users/Infinity228007/badges/large)](https://www.codewars.com/users/Infinity228007)
 
-[<img src="./svg/codewars.png" width="650px" height="265px">](https://www.codewars.com/users/Infinity228007)
-
 ### SKILLS
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="90px" height="90px">](https://www.python.org/)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="90px" height="90px">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="90px" height="90px">](https://www.w3.org/TR/CSS/#css)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
 [<img src="./svg/sqlite-icon.svg" width="90px" height="90px">](https://www.sqlite.org/about.html)
+[<img src="./svg/mysql-icon.svg" width="90px" height="90px">](https://dev.mysql.com/doc/)
 
 [<img src="./svg/Django-REST.svg" width="150px" height="150px">](https://www.django-rest-framework.org/)
 
