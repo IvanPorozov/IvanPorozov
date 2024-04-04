@@ -17,9 +17,9 @@ Python Developer
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="90px" height="90px">](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="90px" height="90px">](https://www.w3.org/TR/CSS/#css)
 [<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="90px" height="90px">](https://www.djangoproject.com/)
-[<img src="./svg/bs4-logo.svg" width="90px" height="90px">](https://github.com/wention/BeautifulSoup4)
 [<img src="./svg/sqlite-icon.svg" width="90px" height="90px">](https://www.sqlite.org/about.html)
 [<img src="./svg/mysql-icon.svg" width="90px" height="90px">](https://dev.mysql.com/doc/)
+[<img src="./svg/bs4-logo.svg" width="90px" height="90px">](https://github.com/wention/BeautifulSoup4)
 
 [<img src="./svg/Django-REST.svg" width="150px" height="150px">](https://www.django-rest-framework.org/)
 
